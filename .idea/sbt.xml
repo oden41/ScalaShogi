@@ -4,6 +4,7 @@
     <option name="linkedExternalProjectsSettings">
       <SbtProjectSettings>
         <option name="externalProjectPath" value="E:\Visual_Project\ScalaShogi_sbt" />
+        <option name="useAutoImport" value="true" />
       </SbtProjectSettings>
     </option>
   </component>
